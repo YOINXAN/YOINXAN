@@ -1,4 +1,4 @@
-<br clear="both">
+- <br clear="both">
 
 <h1 align="center">ME.The Remaining Dreams</h1>
 
@@ -6,10 +6,6 @@
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow)
 
-###
-
-#### Platforms
-![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)
 
 #### Tools
 [![](https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
@@ -34,6 +30,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/YOINXAN/count.svg?"  />
 </div>
+
 
 
 #### Stats
