@@ -3,8 +3,7 @@
 <h1 align="center">ME.The Remaining Dreams</h1>
 
 <h3 align="center" color="aqua">I am YOINXAN!</h1>
-
-
+![](https://img.shields.io/badge/讨厌-学习-yellow)
 
 ###
 
@@ -16,6 +15,10 @@ Visited
 <div align="center">
   <img src="https://profile-counter.glitch.me/YOINXAN/count.svg?"  />
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOINXAN&show_icons=true&theme=tokyonight)
+
 
 
 Day
@@ -32,7 +35,5 @@ Day
 
 
 
-Use
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOINXAN&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
