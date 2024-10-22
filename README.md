@@ -29,13 +29,15 @@
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 
+
+
+#### Day
+
 <div align="center">
 	<a href="https://codeacg.com/">
 	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=白天摸鱼;晚上睡觉&center=true&size=22" alt="Typing SVG" />
 	</a>
 </div>
-
-#### Day
 
 <div align="center">
     <div style="display:inline-block; margin-left:auto; margin-right:auto;">
