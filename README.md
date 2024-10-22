@@ -8,8 +8,16 @@
   <img src="https://img.shields.io/badge/讨厌-学习-yellow" />
 </div>
 
+#### Visited
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOINXAN/count.svg?"  />
+</div>
+
+
 
 #### Tools
+
 [![](https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Chrome-谷歌-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4)](https://www.google.com/chrome/)
 [![](https://img.shields.io/badge/Edge-微软-0078D7?style=flat-square&logo=Microsoft%20Edge&labelColor=ffffff&logoColor=0078D7)](https://www.microsoft.com/zh-cn/edge?form=MA13FJ)
@@ -26,14 +34,6 @@
 	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=白天摸鱼;晚上睡觉&center=true&size=22" alt="Typing SVG" />
 	</a>
 </div>
-
-#### Visited
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YOINXAN/count.svg?"  />
-</div>
-
-
 
 #### Stats
 
@@ -52,3 +52,8 @@
 
 
 
+
+
+
+
+<hr>
