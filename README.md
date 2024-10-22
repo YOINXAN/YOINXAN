@@ -1,6 +1,8 @@
 <br clear="both">
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=ME.The Remaining Dreams&fontSize=50&fontAlign=50&fontAlignY=30&desc=I am YOINXAN!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" /></p>
+<h1 align="center">ME.The remaining Dreams</h1>
+
+###
 
 
 
@@ -18,9 +20,9 @@ Day
 
 摸鱼   🕓 16h0m ███████████████████░░░░░░░  60.0%
 
-睡觉   🕓 8h0m   ███████░░░░░░░░░░░░░░░░░░░  40.0%
+睡觉   🕓 08h0m ███████░░░░░░░░░░░░░░░░░░░  40.0%
 
-干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
+干活   🕓 00h0m ░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 
 
 
