@@ -3,10 +3,10 @@
 <h1 align="center">ME.The Remaining Dreams</h1>
 
 <h3 align="center" color="aqua">I am YOINXAN!</h1>
-###
 
-
-![](https://img.shields.io/badge/讨厌-学习-yellow)
+<div align="center">
+  <img src="https://img.shields.io/badge/讨厌-学习-yellow" />
+</div>
 
 
 #### Tools
@@ -40,8 +40,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOINXAN&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
-###
-
 #### Day
 
 ```text
