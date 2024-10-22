@@ -34,14 +34,6 @@
 	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=白天摸鱼;晚上睡觉&center=true&size=22" alt="Typing SVG" />
 	</a>
 </div>
-
-#### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOINXAN&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-
 #### Day
 
 摸鱼   🕓 16h0m  ███████████████████░░░░░░░ 60.0%
